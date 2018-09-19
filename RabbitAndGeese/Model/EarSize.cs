@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace RabbitAndGeese.Model
 {
-    public enum EarSize
+    public enum Size
     //enums are integers by default but you can change that
     {
         Small,
