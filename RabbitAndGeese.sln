@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme.txt = readme.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitAndGeese.Tests", "RabbitAndGeese.Tests\RabbitAndGeese.Tests.csproj", "{84003C5D-419A-4002-98DC-3472DAAEAABF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{8737A3E7-792D-4B10-9635-EDCDEA1DAC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8737A3E7-792D-4B10-9635-EDCDEA1DAC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8737A3E7-792D-4B10-9635-EDCDEA1DAC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84003C5D-419A-4002-98DC-3472DAAEAABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84003C5D-419A-4002-98DC-3472DAAEAABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84003C5D-419A-4002-98DC-3472DAAEAABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84003C5D-419A-4002-98DC-3472DAAEAABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
