@@ -11,6 +11,7 @@ namespace RabbitAndGeese.Model
         public Sex Sex { get; set; }
         public Size Size { get; set; }
         public bool Social { get; set; }
-
+        public object Saddle { get; set; }
+        public string EmotionalState { get; set; }
     }
 }
